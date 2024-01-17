@@ -1,0 +1,102 @@
+@media (min-width: 200px){
+    .img_link{
+        padding-right:0px !important;
+    }
+    .img_link .linkHome img{
+        width:180px
+    }
+    .home_link{
+        padding-left: 0px !important;
+        margin-left: 16px !important;
+    }
+    h2.product_title {
+        font-size: 12px !important;
+    }
+}
+
+@media (min-width: 300px){
+    .img_link{
+        padding-right:0px !important;
+    }
+    .img_link .linkHome img{
+        width:180px
+    }
+    .home_link{
+        padding-left: 0px !important;
+        margin-left: 16px !important;
+    }
+    h2.product_title {
+        font-size: 12px !important;
+    }	
+}
+
+@media (min-width: 540px){
+    .img_link{
+        padding-right:0px !important;
+    }
+    .img_link .linkHome img{
+        width:112px
+    }
+    .home_link{
+        padding-left: 0px !important;
+        margin-left: 16px !important;
+    }
+    h2.product_title {
+        font-size: 14px !important;
+    }    
+}
+
+@media (min-width: 600px){
+    .img_link{
+        padding-right:0px !important;
+    }
+    .home_link{
+        padding-left: 0px !important;
+        margin-left: 16px !important;
+    }
+    h2.product_title {
+        font-size: 16px !important;
+    }	
+}
+
+@media (min-width: 780px){
+    .img_link{
+        padding-right:0px !important;
+    }
+    .home_link{
+        padding-left: 0px !important;
+        margin-left: 16px !important;
+    }
+    h2.product_title {
+        font-size: 16px !important;
+    } 	
+}
+
+@media (min-width: 920px){
+    .img_link{
+        padding-right:0px !important;
+    }
+    .home_link{
+        padding-left: 0px !important;
+        margin-left: 16px !important;
+    }
+    h2.product_title {
+        font-size: 16px !important;
+    }	
+}
+
+@media (min-width: 1200px){
+    .img_link{
+        padding-right:48px !important;
+    }
+    .home_link{
+        padding-left: 48px !important;
+        margin-left: 16px !important;
+    } 
+    h2.product_title {
+        font-size: 16px !important;
+    } 	
+}
+@media (min-width: 3000px){	
+
+}

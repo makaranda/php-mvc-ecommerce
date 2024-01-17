@@ -1,0 +1,495 @@
+/* My Style CSS */
+
+
+@font-face {
+  font-family: 'Glyphicons Halflings';
+  src: url('//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/fonts/glyphicons-halflings-regular.eot');
+  src: url('//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),
+       url('//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/fonts/glyphicons-halflings-regular.woff2') format('woff2'),
+       url('//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/fonts/glyphicons-halflings-regular.woff') format('woff'),
+       url('//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/fonts/glyphicons-halflings-regular.ttf') format('truetype'),
+       url('//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+}
+.glyphicon {
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  font: normal normal 16px/1 'Glyphicons Halflings';
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  margin-right: 0px;
+}
+/* Add icons you will be using below */
+.glyphicon-fire:before {
+  content: '\e104';
+}
+.glyphicon-eye-open:before {
+  content: '\e105';
+}
+
+
+
+
+.font-size-2{
+	font-size:2px !important;
+}
+.font-size-3{
+	font-size:3px !important;
+}
+.font-size-4{
+	font-size:4px !important;
+}
+.font-size-5{
+	font-size:5px !important;
+}
+.font-size-6{
+	font-size:6px !important;
+}
+.font-size-8{
+	font-size:8px !important;
+}
+.font-size-10{
+	font-size:10px !important;
+}
+.font-size-11{
+	font-size:11px !important;
+}
+.font-size-12{
+	font-size:12px !important;
+}
+.font-size-14{
+	font-size:14px !important;
+}
+
+.collapse-header{
+	color: #2d64ff !important;
+    text-decoration: underline;
+}
+
+footer.sticky-footer .copyright {
+    color: #142e7b !important;
+}
+
+#thead-dark {
+    background-color: #466cd9 !important;
+	color: #fff;
+}
+
+.scroll-to-top {
+    background-color: rgba(62, 100, 211, 0.6) !important;
+}
+
+.glyphicon-calendar:before {
+    content: "\e109";
+}
+
+.glyphicon {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.input-group-addon {
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.input-group-addon, .input-group-btn {
+    width: 1%;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
+.input-group .form-control, .input-group-addon, .input-group-btn {
+    display: table-cell;
+}
+
+.input-group-addon, .input-group-btn {
+    width: 1%;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
+.thumbnail {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+}
+
+.gj-datepicker [role="right-icon"] {
+    cursor: pointer;
+}
+
+.input-group-addon, .input-group-btn {
+    width: 1%;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
+.input-group {
+    position: relative;
+    display: table;
+    border-collapse: separate;
+}
+
+.input-group>.custom-file, .input-group>.custom-select, .input-group>.form-control, .input-group>.form-control-plaintext {
+    position: relative;
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    width: 100%;
+    margin-bottom: 0;
+}
+
+
+div.listdropdown {
+	z-index: 1000 !important;
+    position: absolute !important;
+    width: 95%;
+	cursor: pointer !important;
+    /*height: 200px !important;
+    overflow-y: auto;*/
+}
+
+.glyphicon-calendar:before {
+    content: "\e109";
+}
+
+select.form-control:hover {
+    cursor: pointer !important;
+}
+
+input#datepicker1,input#datepicker2,input#datepicker3 {
+   cursor: pointer !important;
+
+}
+
+/*
+.bg-gradient-primary {
+    background-color: darkslategray !important;
+    /*background-image: -webkit-gradient(linear,left top,left bottom,color-stop(10%,darkslategray),to(#dsad));
+    /* background-image: linear-gradient(180deg,#4e73df 10%,#224abe 100%); 
+    background-size: cover;*/
+/*	background-image: linear-gradient(180deg,darkslategray 10%,darkslategray 100%) !important;
+}
+*/
+
+.bg-gradient-primary {
+    background-color: #780000 !important;
+    background-image: linear-gradient(180deg,#780000 10%,#780000 100%) !important;
+}
+
+
+.accordion>.card {
+    overflow: unset !important;
+}
+
+
+.tail-select {
+    width: 100% !important;
+}	
+
+
+
+/* Login Page */
+.logoImg {
+    position: relative !important;
+    width: 40%;
+    margin: 0% 0% 0 00% !important;
+}
+
+.logincomdetails {
+    font-family: 'Exo', sans-serif;
+    font-size: 14px;
+    color: #fff;
+}
+
+.login-welcome-text{
+    text-shadow: 0px 0px 5px #555;
+    background-color: darkgreen;
+    padding: 1%;
+    font-family: 'Exo', sans-serif;
+}
+
+
+.display-unset {
+    display: unset !important;
+}   
+
+
+.form-control.form-control-user:hover {
+    cursor: initial;
+}
+
+button.login-button {
+    text-shadow: 0px 0px 6px #fff;
+    text-transform: uppercase;
+    color: #000;
+    font-weight: 900;
+}
+
+h1,h6 {
+    font-family: 'Exo', sans-serif;
+}
+
+table {
+    font-family: 'Exo', sans-serif;
+}
+
+.yearlySelect .select2-container{
+	width:100% !important;
+}
+
+.select2-container--default .select2-selection--single {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #6e707e;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #d1d3e2;
+    border-radius: .35rem;
+    -webkit-transition: border-color .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+    transition: border-color .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+}
+
+
+.select2.select2-container {
+    width: 100% !important;
+}
+
+
+.btn-default {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+}
+.btn-group, .btn-group-vertical {
+	width: 100%;	
+}
+	
+ul.multiselect-container.dropdown-menu.show {
+	width:100%;
+}
+
+.multiselect-container>li {
+    padding: 3px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+
+.dropify-wrapper {
+    display: block;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+    width: 100%;
+    max-width: 100%;
+    height: 140px;
+    padding: 5px 10px;
+    font-size: 14px;
+    line-height: 22px;
+    color: #777;
+    background-color: #FFF;
+    background-image: none;
+    text-align: center;
+    border: 2px solid #E5E5E5;
+    -webkit-transition: border-color .15s linear;
+    transition: border-color .15s linear;
+}
+
+.dropify-wrapper .dropify-message {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.dropify-wrapper .dropify-loader {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    display: none;
+    z-index: 9;
+}
+
+.dropify-wrapper .dropify-errors-container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 3;
+    background: rgba(243,65,65,.8);
+    text-align: left;
+    visibility: hidden;
+    opacity: 0;
+    -webkit-transition: visibility 0s linear .15s,opacity .15s linear;
+    transition: visibility 0s linear .15s,opacity .15s linear;
+}
+
+
+.dropify-wrapper input {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    cursor: pointer;
+    z-index: 5;
+}
+
+.dropify-wrapper .dropify-clear {
+    display: none;
+    position: absolute;
+    opacity: 0;
+    z-index: 7;
+    top: 10px;
+    right: 10px;
+    background: 0 0;
+    border: 2px solid #FFF;
+    text-transform: uppercase;
+    font-size: 11px;
+    padding: 4px 8px;
+    font-weight: 700;
+    color: #FFF;
+    -webkit-transition: all .15s linear;
+    transition: all .15s linear;
+}
+
+.dropify-wrapper .dropify-preview {
+    display: none;
+    position: absolute;
+    z-index: 1;
+    background-color: #FFF;
+    padding: 5px;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+.dropify-wrapper .dropify-preview .dropify-infos {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 3;
+    background: rgba(0,0,0,.7);
+    opacity: 0;
+    -webkit-transition: opacity .15s linear;
+    transition: opacity .15s linear;
+}
+
+.dropify-wrapper .dropify-preview .dropify-infos .dropify-infos-inner {
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translate(0,-40%);
+    transform: translate(0,-40%);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    width: 100%;
+    padding: 0 20px;
+    -webkit-transition: all .2s ease;
+    transition: all .2s ease;
+}
+
+.dropify-wrapper .dropify-preview .dropify-infos .dropify-infos-inner p {
+    padding: 0;
+    margin: 0;
+    position: relative;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #FFF;
+    text-align: center;
+    line-height: 25px;
+    font-weight: 700;
+}
+
+.dropify-wrapper .dropify-preview .dropify-infos .dropify-infos-inner p.dropify-infos-message {
+    margin-top: 15px;
+    padding-top: 15px;
+    font-size: 12px;
+    position: relative;
+    opacity: .5;
+}
+
+
+
+
+.dashboardLogo{
+	width: 100px !important;
+	border: 1px solid #2f4f4f;
+}
+
+
+.ui-datepicker{
+	background-color: #fff !important;
+    border: 1px solid #ccc !important;
+    padding: 6px;
+    box-shadow: 0px 0px 5px;
+    border-radius: 5px 5px 0px 0;
+}
+
+
+span.ui-icon.ui-icon-circle-triangle-e {
+    float: right !important;
+}
+
+
+span.ui-icon.ui-icon-circle-triangle-e:hover {
+    color: #4e73df !important;
+	cursor: pointer !important;
+}
+
+span.ui-icon.ui-icon-circle-triangle-w:hover {
+    color: #4e73df !important;
+	cursor: pointer !important;
+}
+
+.ui-datepicker-title {
+    text-align: center !important;
+    background-color: darkslategrey;
+    color: #fff !important;
+}
+
+a.ui-state-default {
+    text-decoration: none !important;
+}
+

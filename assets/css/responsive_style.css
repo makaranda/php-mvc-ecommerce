@@ -1,0 +1,717 @@
+@media (min-width: 200px){
+    #home-search {
+        position: fixed;
+        left: 44%;
+        top: 74%;
+        bottom: 0%;
+    }
+    #home-text {
+        width: 100%;
+        position: absolute;
+        left: 50%;
+        top: 40%;
+    }
+    .overlay video {
+        position: relative;
+        height: 600px;
+        min-height: 100%;
+        width: 1066px !important;
+    }  
+    .main_logo {
+        width: 180px;
+        margin: 4% 0;
+    }
+    .overlay .video-banner-text{
+        font-size: 25px;
+    }
+    .home_title {
+        font-size: 24px;
+    }
+	.mt-productlisthold > li {
+		width: 90%;
+		padding: 0 0 2px;
+		vertical-align: top;
+	}
+	.mt-contact-banner.style4 {
+		padding: 125px 0 14px;
+		margin: 0 0 4px;
+	}	
+	#back-top.active {
+		align-self: center;
+		align-content: center;
+		align-items: center;
+		justify-content: center;
+		justify-items: center;
+		justify-self: center;
+		padding: 6%;
+	}
+	.exzoom .exzoom_nav {
+		width: 300px !important;
+	}
+	.ui-btn{
+	    font-size: 2rem;
+	    line-height: 24px;
+	}
+    .mt-bottom-bar .mt-icon-list .mt-drop {
+        right: -140px;
+        /*width: 297px;*/
+    }
+    .carousel-item img {
+        height: 315px;
+        width: 100% !important;
+        object-fit: cover;
+        position: relative;
+        object-position: right;
+    }  
+    .main-slider-caption {
+        top: 0px;
+        padding-top: 0px;
+    }   
+    .main-slider-caption h3 {
+        font-size: 15px;
+        color: #fff !important;
+    }   
+    .main-slider-caption h1 {
+        font-size: 22px;
+        color: #fff !important;
+    } 
+    .main-slider-caption h2 {
+        font-size: 16px;
+        color: #fff !important;
+    }  
+    .main-slider-caption p {
+        font-size: 14px;
+        color: #fff !important;
+    } 
+    a.carousel-control-prev {
+        display: none;
+    }   
+    a.carousel-control-next{
+        display: none;
+    } 
+    .darken-pseudo:after{
+      content: '';
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      display: block;
+      background-color: rgba(0, 0, 0, 0.5);
+    }
+    
+
+}
+
+@media (min-width: 300px){
+    #home-search {
+        position: fixed;
+        left: 44%;
+        top: 73%;
+        bottom: 0%;
+    }
+    #home-text {
+        width: 100%;
+        position: absolute;
+        left: 50%;
+        top: 40%;
+    }    
+    .overlay video {
+        position: relative;
+        height: 600px;
+        min-height: 100%;
+        width: 1066px !important;
+    }  
+    .main_logo {
+        width: 180px;
+        margin: 4% 0;
+    }
+    .overlay .video-banner-text{
+        font-size: 35px;
+    }    
+    .home_title {
+        font-size: 24px;
+    }
+	.mt-productlisthold > li {
+		width: 80%;
+		padding: 0 0 2px;
+		vertical-align: top;
+	}
+	.mt-contact-banner.style4 {
+		padding: 125px 0 14px;
+		margin: 0 0 4px;
+	}	
+	#back-top.active {
+		align-self: center;
+		align-content: center;
+		align-items: center;
+		justify-content: center;
+		justify-items: center;
+		justify-self: center;
+		padding: 4%;
+	}	
+	.exzoom .exzoom_nav {
+		width: 315px !important;
+	}
+	.ui-btn{
+	    font-size: 2rem;
+	    line-height: 24px;
+	}
+    .mt-bottom-bar .mt-icon-list .mt-drop {
+        right: -145px;
+        /*width: 297px;*/
+    }	
+    .carousel-item img {
+        height: 315px;
+        width: 100% !important;
+        object-fit: cover;
+        position: relative;
+        object-position: right;
+    }   
+    .main-slider-caption {
+        top: 0px;
+        padding-top: 0px;
+    }    
+    .main-slider-caption h3 {
+        font-size: 15px;
+        color: #fff !important;
+    }   
+    .main-slider-caption h1 {
+        font-size: 22px;
+        color: #fff !important;
+    } 
+    .main-slider-caption h2 {
+        font-size: 16px;
+        color: #fff !important;
+    }  
+    .main-slider-caption p {
+        font-size: 14px;
+        color: #fff !important;
+    }
+    a.carousel-control-prev {
+        display: none;
+    }   
+    a.carousel-control-next{
+        display: none;
+    } 
+    .darken-pseudo:after{
+      content: '';
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      display: block;
+      background-color: rgba(0, 0, 0, 0.5);
+    }    
+}
+
+@media (min-width: 540px){
+    #home-search {
+        position: fixed;
+        left: 44%;
+        top: 73%;
+        bottom: 0%;
+    }
+    #home-text {
+        width: 100%;
+        position: absolute;
+        left: 50%;
+        top: 36%;
+    }
+    .overlay video {
+        position: relative;
+        height: 700px;
+        min-height: 100%;
+        width: 1246px !important;
+    }  
+    .main_logo {
+        width: 180px;
+        margin: 4% 0;
+    }
+    .overlay .video-banner-text{
+        font-size: 50px;
+    }    
+    .home_title {
+        font-size: 24px;
+    }
+	.mt-productlisthold > li {
+		width: 45%;
+		padding: 0 0 2px;
+		vertical-align: top;
+	}
+	.mt-contact-banner.style4 {
+		padding: 125px 0 14px;
+		margin: 0 0 4px;
+	}
+	#back-top.active {
+		align-self: center;
+		align-content: center;
+		align-items: center;
+		justify-content: center;
+		justify-items: center;
+		justify-self: center;
+		padding: 3%;
+	}
+	.exzoom .exzoom_nav {
+		width: 490px !important;
+	}
+	.ui-btn{
+	    font-size: 3rem;
+	    line-height: 24px;
+	}
+    .mt-bottom-bar .mt-icon-list .mt-drop {
+        right: -150px;
+        /*width: 297px;*/
+    }	
+    .carousel-item img {
+        height: 315px;
+        width: 100% !important;
+        object-fit: cover;
+        position: relative;
+        object-position: right;
+    }    
+    .main-slider-caption {
+        top: 0px;
+        padding-top: 0px;
+    }   
+    .main-slider-caption h3 {
+        font-size: 15px;
+        color: #343a40 !important;
+    }   
+    .main-slider-caption h1 {
+        font-size: 22px;
+        color: #343a40 !important;        
+    } 
+    .main-slider-caption h2 {
+        font-size: 16px;
+        color: #343a40 !important;        
+    }  
+    .main-slider-caption p {
+        font-size: 14px;
+        color: #343a40 !important;        
+    }   
+    a.carousel-control-prev {
+        display: none;
+    }   
+    a.carousel-control-next{
+        display: none;
+    }
+    .darken-pseudo:after{
+      content: '';
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      display: block;
+      background-color: rgba(0, 0, 0, 0);
+    }    
+}
+
+@media (min-width: 600px){
+    #home-search {
+        position: absolute;
+        left: 44%;
+        top: 73%;
+        bottom: 0%;
+    }
+    #home-text {
+        width: 100%;
+        position: absolute;
+        left: 50%;
+        top: 42%;
+    }
+    .overlay video {
+        position: relative;
+        height: 100%;
+        min-height: 100%;
+        width: 100% !important;
+    }  
+    .main_logo {
+        width: 180px;
+        margin: 4% 0;
+    } 
+    .overlay .video-banner-text{
+        font-size: 55px;
+    }   
+    .home_title {
+        font-size: 24px;
+    }
+	.mt-productlisthold > li {
+		width: 49%;
+		padding: 0 0 2px;
+		vertical-align: top;
+	}
+	.mt-contact-banner.style4 {
+		padding: 120px 0 14px;
+		margin: 0 0 4px;
+	}
+	#back-top.active {
+		align-self: center;
+		align-content: center;
+		align-items: center;
+		justify-content: center;
+		justify-items: center;
+		justify-self: center;
+		padding: 2.4%;
+	}
+	.exzoom .exzoom_nav {
+		width: 468px !important;
+	}
+	.ui-btn{
+	    font-size: 3rem;
+	    line-height: 45px;
+	}
+    .mt-bottom-bar .mt-icon-list .mt-drop {
+        right: -47px;
+        /*width: 297px;*/
+    }	
+    .carousel-item img {
+        height: 300px;
+        width: 100% !important;
+        object-fit: cover;
+        position: relative;
+        object-position: right;
+    }  
+    .main-slider-caption {
+        top: 0px;
+        padding-top: 0px;
+    }    
+    .main-slider-caption h3 {
+        font-size: 15px;
+    }   
+    .main-slider-caption h1 {
+        font-size: 22px;
+    } 
+    .main-slider-caption h2 {
+        font-size: 16px;
+    }  
+    .main-slider-caption p {
+        font-size: 14px;
+    }
+    a.carousel-control-prev {
+        display: flex;
+    }   
+    a.carousel-control-next{
+        display: flex;
+    }     
+}
+
+@media (min-width: 780px){
+    #home-search {
+        position: absolute;
+        left: 44%;
+        top: 73%;
+        bottom: 0%;
+    }
+    #home-text {
+        width: 100%;
+        position: absolute;
+        left: 50%;
+        top: 42%;
+    }
+    .overlay video {
+        position: relative;
+        height: 100%;
+        min-height: 100%;
+        width: 100% !important;
+    }  
+    .main_logo {
+        width: 180px;
+        margin: 4% 0;
+    } 
+    .overlay .video-banner-text{
+        font-size: 75px;
+    } 
+    .home_title {
+        font-size: 48px;
+    }  
+	.mt-productlisthold > li {
+		width: 49%;
+		padding: 0 0 2px;
+		vertical-align: top;
+	}
+	.mt-contact-banner.style4 {
+		padding: 120px 0 14px;
+		margin: 0 0 4px;
+	}	
+	#back-top.active {
+		align-self: center;
+		align-content: center;
+		align-items: center;
+		justify-content: center;
+		justify-items: center;
+		justify-self: center;
+		padding: 2%;
+	}
+	.exzoom .exzoom_nav {
+		width: 644px !important;
+	}
+	.ui-btn{
+	    font-size: 4rem;
+	    line-height: 60px;
+	}
+    .mt-bottom-bar .mt-icon-list .mt-drop {
+        right: -91px;
+        /*width: 297px;*/
+    }	
+    .carousel-item img {
+        height: 300px;
+        width: 100% !important;
+        object-fit: cover;
+        position: relative;
+        object-position: right;
+    }  
+    .main-slider-caption {
+        top: 0px;
+        padding-top: 0px;
+    }    
+    .main-slider-caption h3 {
+        font-size: 16px;
+    }   
+    .main-slider-caption h1 {
+        font-size: 28px;
+    } 
+    .main-slider-caption h2 {
+        font-size: 25px;
+    }  
+    .main-slider-caption p {
+        font-size: 15px;
+    }  
+    a.carousel-control-prev {
+        display: flex;
+    }   
+    a.carousel-control-next{
+        display: flex;
+    }     
+}
+
+@media (min-width: 920px){
+    #home-search {
+        position: absolute;
+        left: 44%;
+        top: 73%;
+        bottom: 0%;
+    }
+    #home-text {
+        width: 100%;
+        position: absolute;
+        left: 50%;
+        top: 42%;
+    }
+    .overlay video {
+        position: relative;
+        height: 100%;
+        min-height: 100%;
+        width: 100% !important;
+    }  
+    .main_logo {
+        width: 180px;
+        margin: 4% 0;
+    }
+    .overlay .video-banner-text{
+        font-size: 80px;
+    }  
+    .home_title {
+        font-size: 62px;
+    } 
+	.mt-productlisthold > li {
+		width: 33%;
+		padding: 0 0 2px;
+		vertical-align: top;
+	} 
+	.mt-contact-banner.style4 {
+		padding: 120px 0 14px;
+		margin: 0 0 4px;
+	}	
+	#back-top.active {
+		align-self: center;
+		align-content: center;
+		align-items: center;
+		justify-content: center;
+		justify-items: center;
+		justify-self: center;
+		padding: 1.6%;
+	}
+	.exzoom .exzoom_nav {
+		width: 380px !important;
+	}
+	.ui-btn{
+	    font-size: 4rem;
+	    line-height: 70px;
+	}
+    .mt-bottom-bar .mt-icon-list .mt-drop {
+        right: -91px;
+        /*width: 297px;*/
+    }	
+    .carousel-item img {
+        height: auto;
+        width: 100% !important;
+        object-fit: cover;
+        position: relative;
+        object-position: right;
+    }    
+    .main-slider-caption {
+        top: 12px;
+        padding-top: 20px;
+    }  
+    .main-slider-caption h3 {
+        font-size: 20px;
+    }   
+    .main-slider-caption h1 {
+        font-size: 36px;
+    } 
+    .main-slider-caption h2 {
+        font-size: 30px;
+    }  
+    .main-slider-caption p {
+        font-size: 20px;
+    }     
+    a.carousel-control-prev {
+        display: flex;
+    }   
+    a.carousel-control-next{
+        display: flex;
+    }     
+}
+
+@media (min-width: 1200px){
+    #home-search {
+        position: absolute;
+        left: 44%;
+        top: 73%;
+        bottom: 0%;
+    }
+    #home-text {
+        width: 100%;
+        position: absolute;
+        left: 50%;
+        top: 42%;
+    }
+    .overlay video {
+        position: relative;
+        height: 100%;
+        min-height: 100%;
+        width: 100% !important;
+    }  
+    .main_logo {
+        width: 180px;
+        margin: 4% 0;
+    } 
+    .overlay .video-banner-text{
+        font-size: 85px;
+    }  
+    .home_title {
+        font-size: 62px;
+    } 
+	.mt-productlisthold > li {
+		width: 33%;
+		padding: 0 0 2px;
+		vertical-align: top;
+	}
+	.mt-contact-banner.style4 {
+		padding: 125px 0 14px;
+		margin: 0 0 4px;
+	}	
+	#back-top.active {
+		align-self: center;
+		align-content: center;
+		align-items: center;
+		justify-content: center;
+		justify-items: center;
+		justify-self: center;
+		padding: 1.3%;
+	}
+	.exzoom .exzoom_img_ul_outer .exzoom_img_ul li {
+		width: 520px !important;
+	}	
+	.exzoom .exzoom_nav {
+		width: 538px !important;
+	}
+	.ui-btn{
+	    font-size: 4rem;
+	    line-height: 70px;
+	}
+    .mt-bottom-bar .mt-icon-list .mt-drop {
+        right: -91px;
+        /*width: 297px;*/
+    }
+    .carousel-item img {
+        height: auto;
+        width: 100% !important;
+        object-fit: cover;
+        position: relative;
+        object-position: right;
+    }
+    .main-slider-caption {
+        top: 12px;
+        padding-top: 20px;
+    } 
+    .main-slider-caption h3 {
+        font-size: 20px;
+    }   
+    .main-slider-caption h1 {
+        font-size: 36px;
+    } 
+    .main-slider-caption h2 {
+        font-size: 30px;
+    }  
+    .main-slider-caption p {
+        font-size: 20px;
+    } 
+    a.carousel-control-prev {
+        display: flex;
+    }   
+    a.carousel-control-next{
+        display: flex;
+    }     
+}
+@media (min-width: 3000px){	
+	#back-top.active {
+		align-self: center;
+		align-content: center;
+		align-items: center;
+		justify-content: center;
+		justify-items: center;
+		justify-self: center;
+		padding: 0.7%;
+	}
+	.ui-btn{
+	    font-size: 4rem;
+	    line-height: 70px;
+	}
+    .mt-bottom-bar .mt-icon-list .mt-drop {
+        right: -91px;
+        /*width: 297px;*/
+    }
+    .carousel-item img {
+        height: auto;
+        width: 100% !important;
+        object-fit: cover;
+        position: relative;
+        object-position: right;
+    } 
+    .main-slider-caption {
+        top: 12px;
+        padding-top: 20px;
+    }  
+    .main-slider-caption h3 {
+        font-size: 20px;
+    }   
+    .main-slider-caption h1 {
+        font-size: 36px;
+    } 
+    .main-slider-caption h2 {
+        font-size: 30px;
+    }  
+    .main-slider-caption p {
+        font-size: 20px;
+    }  
+    a.carousel-control-prev {
+        display: flex;
+    }   
+    a.carousel-control-next{
+        display: flex;
+    }     
+}

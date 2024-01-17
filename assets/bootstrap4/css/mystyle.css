@@ -1,0 +1,133 @@
+.bg-image{
+	background:url('../../images/bg-image1.jpg');
+	background-size: cover;
+}
+
+.bg-transparent {
+    background-color: rgba(255, 255, 255, 0.4) !important;
+}
+/*
+.left-side-img{
+	background:url('../../images/left-side-image2.jpg');
+	background-size: cover;
+	box-sizing: border-box !important;
+}
+*/
+.left-side-img {
+    background: url(../../images/logo.jpg);
+    background-size: contain;
+    box-sizing: border-box !important;
+    background-position: center;
+    background-repeat: no-repeat !important;
+    border: 1px solid rgba(0,0,0,0.2);
+    border-radius: 2px;
+    box-shadow: 0px 0px 7px 0px rgba(0,0,0,0.4);
+    z-index: 1;
+}
+.box-shadow-new{
+	box-shadow: 0 15px 40px rgba(0,0,0,.5) !important;
+}
+
+.row-height{
+	border: 2px solid #fff !important;
+}
+
+.formBox{
+	width:100% !important;
+	box-sizing: border-box !important;	
+}
+
+.form-control{
+	border: none !important;
+	outline:none !important;
+	border-bottom: 2px solid #a6af13 !important;
+}
+
+.form-control::-webkit-input-placeholder { /* Edge */
+  color: #ccc !important;
+}
+
+.form-control:-ms-input-placeholder { /* Internet Explorer */
+  color: #ccc !important;
+}
+
+.form-control::placeholder {
+  color: #ccc !important;
+}
+
+.form-control:focus{
+	border: none !important;
+	outline:none !important;
+	box-shadow:0 0 0 0rem rgba(255,255,255,.0);
+	border-bottom: 2px solid #262626 !important;	
+}
+
+button.btn-new{
+	background-color:#262626 !important;
+	color: #fff !important;
+}
+
+button.btn-new:hover{
+	background-color:#a6af13 !important;
+	color: #000 !important;
+}
+
+label{
+	color: #a6af13 !important;
+}
+
+h1, h3, h4 {
+	color: #262626;
+    text-shadow: 0px 0px 5px darkkhaki;
+    font-weight: 700;
+}
+h1 a, h3 a, h4 a {
+	text-decoration: none !important;
+	color: #262626;
+    text-shadow: 0px 0px 5px darkkhaki;
+}
+
+@media (min-width: 240px){
+	.row-height{
+		height: 300px !important;	
+	}
+	.formBox{
+	padding: 16px 0px !important;
+	}
+}
+@media (min-width: 576px){
+	.row-height{
+		height: 300px !important;	
+	}
+	.formBox{
+	padding: 16px 0px !important;
+	}	
+	
+}
+@media (min-width: 720px){
+	.row-height{
+		height: 350px !important;	
+	}
+	.formBox{
+	padding: 40px 40px !important;
+	}	
+	
+}
+@media (min-width: 900px){
+	.row-height{
+		height: 372px !important;	
+	}
+	.formBox{
+	padding: 50px 10px !important;
+	}	
+	
+}
+@media (min-width: 1200px){
+	.row-height{
+		height: 400px !important;	
+	}
+	.formBox{
+	padding: 50px 40px !important;
+	}	
+	
+}	

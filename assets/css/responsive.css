@@ -1,0 +1,409 @@
+@media (min-width: 200px){
+    #home-search {
+        position: fixed;
+        left: 44%;
+        top: 74%;
+        bottom: 0%;
+    }
+    #home-text {
+        width: 100%;
+        position: absolute;
+        left: 50%;
+        top: 40%;
+    }
+    .overlay video {
+        position: relative;
+        height: 600px;
+        min-height: 100%;
+        width: 1066px !important;
+    }  
+    .main_logo {
+        width: 180px;
+        margin: 4% 0;
+    }
+    .overlay .video-banner-text{
+        font-size: 25px;
+    }
+    .home_title {
+        font-size: 24px;
+    }
+	.mt-productlisthold > li {
+		width: 90%;
+		padding: 0 0 62px;
+		vertical-align: top;
+	}
+	.mt-contact-banner.style4 {
+		padding: 125px 0 14px;
+		margin: 0 0 4px;
+	}	
+	#back-top.active {
+		align-self: center;
+		align-content: center;
+		align-items: center;
+		justify-content: center;
+		justify-items: center;
+		justify-self: center;
+		padding: 6%;
+	}
+	.exzoom .exzoom_nav {
+		width: 300px !important;
+	}
+	.ui-btn{
+	    font-size: 2rem;
+	    line-height: 24px;
+	}
+}
+
+@media (min-width: 300px){
+    #home-search {
+        position: fixed;
+        left: 44%;
+        top: 73%;
+        bottom: 0%;
+    }
+    #home-text {
+        width: 100%;
+        position: absolute;
+        left: 50%;
+        top: 40%;
+    }    
+    .overlay video {
+        position: relative;
+        height: 600px;
+        min-height: 100%;
+        width: 1066px !important;
+    }  
+    .main_logo {
+        width: 180px;
+        margin: 4% 0;
+    }
+    .overlay .video-banner-text{
+        font-size: 35px;
+    }    
+    .home_title {
+        font-size: 24px;
+    }
+	.mt-productlisthold > li {
+		width: 80%;
+		padding: 0 0 62px;
+		vertical-align: top;
+	}
+	.mt-contact-banner.style4 {
+		padding: 125px 0 14px;
+		margin: 0 0 4px;
+	}	
+	#back-top.active {
+		align-self: center;
+		align-content: center;
+		align-items: center;
+		justify-content: center;
+		justify-items: center;
+		justify-self: center;
+		padding: 4%;
+	}	
+	.exzoom .exzoom_nav {
+		width: 315px !important;
+	}
+	.ui-btn{
+	    font-size: 2rem;
+	    line-height: 24px;
+	}	
+}
+
+@media (min-width: 540px){
+    #home-search {
+        position: fixed;
+        left: 44%;
+        top: 73%;
+        bottom: 0%;
+    }
+    #home-text {
+        width: 100%;
+        position: absolute;
+        left: 50%;
+        top: 36%;
+    }
+    .overlay video {
+        position: relative;
+        height: 700px;
+        min-height: 100%;
+        width: 1246px !important;
+    }  
+    .main_logo {
+        width: 180px;
+        margin: 4% 0;
+    }
+    .overlay .video-banner-text{
+        font-size: 50px;
+    }    
+    .home_title {
+        font-size: 24px;
+    }
+	.mt-productlisthold > li {
+		width: 45%;
+		padding: 0 0 62px;
+		vertical-align: top;
+	}
+	.mt-contact-banner.style4 {
+		padding: 125px 0 14px;
+		margin: 0 0 4px;
+	}
+	#back-top.active {
+		align-self: center;
+		align-content: center;
+		align-items: center;
+		justify-content: center;
+		justify-items: center;
+		justify-self: center;
+		padding: 3%;
+	}
+	.exzoom .exzoom_nav {
+		width: 490px !important;
+	}
+	.ui-btn{
+	    font-size: 3rem;
+	    line-height: 24px;
+	}	
+}
+
+@media (min-width: 600px){
+    #home-search {
+        position: absolute;
+        left: 44%;
+        top: 73%;
+        bottom: 0%;
+    }
+    #home-text {
+        width: 100%;
+        position: absolute;
+        left: 50%;
+        top: 42%;
+    }
+    .overlay video {
+        position: relative;
+        height: 100%;
+        min-height: 100%;
+        width: 100% !important;
+    }  
+    .main_logo {
+        width: 180px;
+        margin: 4% 0;
+    } 
+    .overlay .video-banner-text{
+        font-size: 55px;
+    }   
+    .home_title {
+        font-size: 24px;
+    }
+	.mt-productlisthold > li {
+		width: 49%;
+		padding: 0 0 62px;
+		vertical-align: top;
+	}
+	.mt-contact-banner.style4 {
+		padding: 120px 0 14px;
+		margin: 0 0 4px;
+	}
+	#back-top.active {
+		align-self: center;
+		align-content: center;
+		align-items: center;
+		justify-content: center;
+		justify-items: center;
+		justify-self: center;
+		padding: 2.4%;
+	}
+	.exzoom .exzoom_nav {
+		width: 468px !important;
+	}
+	.ui-btn{
+	    font-size: 3rem;
+	    line-height: 45px;
+	}	
+}
+
+@media (min-width: 780px){
+    #home-search {
+        position: absolute;
+        left: 44%;
+        top: 73%;
+        bottom: 0%;
+    }
+    #home-text {
+        width: 100%;
+        position: absolute;
+        left: 50%;
+        top: 42%;
+    }
+    .overlay video {
+        position: relative;
+        height: 100%;
+        min-height: 100%;
+        width: 100% !important;
+    }  
+    .main_logo {
+        width: 180px;
+        margin: 4% 0;
+    } 
+    .overlay .video-banner-text{
+        font-size: 75px;
+    } 
+    .home_title {
+        font-size: 48px;
+    }  
+	.mt-productlisthold > li {
+		width: 49%;
+		padding: 0 0 62px;
+		vertical-align: top;
+	}
+	.mt-contact-banner.style4 {
+		padding: 120px 0 14px;
+		margin: 0 0 4px;
+	}	
+	#back-top.active {
+		align-self: center;
+		align-content: center;
+		align-items: center;
+		justify-content: center;
+		justify-items: center;
+		justify-self: center;
+		padding: 2%;
+	}
+	.exzoom .exzoom_nav {
+		width: 644px !important;
+	}
+	.ui-btn{
+	    font-size: 4rem;
+	    line-height: 60px;
+	}	
+}
+
+@media (min-width: 920px){
+    #home-search {
+        position: absolute;
+        left: 44%;
+        top: 73%;
+        bottom: 0%;
+    }
+    #home-text {
+        width: 100%;
+        position: absolute;
+        left: 50%;
+        top: 42%;
+    }
+    .overlay video {
+        position: relative;
+        height: 100%;
+        min-height: 100%;
+        width: 100% !important;
+    }  
+    .main_logo {
+        width: 180px;
+        margin: 4% 0;
+    }
+    .overlay .video-banner-text{
+        font-size: 80px;
+    }  
+    .home_title {
+        font-size: 62px;
+    } 
+	.mt-productlisthold > li {
+		width: 33%;
+		padding: 0 0 62px;
+		vertical-align: top;
+	} 
+	.mt-contact-banner.style4 {
+		padding: 120px 0 14px;
+		margin: 0 0 4px;
+	}	
+	#back-top.active {
+		align-self: center;
+		align-content: center;
+		align-items: center;
+		justify-content: center;
+		justify-items: center;
+		justify-self: center;
+		padding: 1.6%;
+	}
+	.exzoom .exzoom_nav {
+		width: 380px !important;
+	}
+	.ui-btn{
+	    font-size: 4rem;
+	    line-height: 70px;
+	}	
+}
+
+@media (min-width: 1200px){
+    #home-search {
+        position: absolute;
+        left: 44%;
+        top: 73%;
+        bottom: 0%;
+    }
+    #home-text {
+        width: 100%;
+        position: absolute;
+        left: 50%;
+        top: 42%;
+    }
+    .overlay video {
+        position: relative;
+        height: 100%;
+        min-height: 100%;
+        width: 100% !important;
+    }  
+    .main_logo {
+        width: 180px;
+        margin: 4% 0;
+    } 
+    .overlay .video-banner-text{
+        font-size: 85px;
+    }  
+    .home_title {
+        font-size: 62px;
+    } 
+	.mt-productlisthold > li {
+		width: 33%;
+		padding: 0 0 62px;
+		vertical-align: top;
+	}
+	.mt-contact-banner.style4 {
+		padding: 125px 0 14px;
+		margin: 0 0 4px;
+	}	
+	#back-top.active {
+		align-self: center;
+		align-content: center;
+		align-items: center;
+		justify-content: center;
+		justify-items: center;
+		justify-self: center;
+		padding: 1.3%;
+	}
+	.exzoom .exzoom_img_ul_outer .exzoom_img_ul li {
+		width: 562px !important;
+	}	
+	.exzoom .exzoom_nav {
+		width: 538px !important;
+	}
+	.ui-btn{
+	    font-size: 4rem;
+	    line-height: 70px;
+	}	
+}
+@media (min-width: 3000px){	
+	#back-top.active {
+		align-self: center;
+		align-content: center;
+		align-items: center;
+		justify-content: center;
+		justify-items: center;
+		justify-self: center;
+		padding: 0.7%;
+	}
+	.ui-btn{
+	    font-size: 4rem;
+	    line-height: 70px;
+	}
+}

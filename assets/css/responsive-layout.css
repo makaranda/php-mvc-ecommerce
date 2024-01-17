@@ -1,0 +1,32 @@
+/* ================== Start Login Page ==================== */
+
+@media (min-width: 300px){
+    .copyright.text-center.my-auto {
+        font-size: 60% !important;
+    }
+}
+
+@media (min-width: 460px){
+    .copyright.text-center.my-auto {
+        font-size: 60% !important;
+    }
+}
+
+@media (min-width: 720px){
+    .copyright.text-center.my-auto {
+        font-size: 80% !important;
+    }
+}
+
+@media (min-width: 900px){
+    .copyright.text-center.my-auto {
+        font-size: 100% !important;
+    }
+}
+
+@media (min-width: 1200px){
+    .copyright.text-center.my-auto {
+        font-size: 100% !important;
+    }
+}
+/* ================== End Login Page ==================== */
